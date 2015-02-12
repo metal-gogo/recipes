@@ -1,5 +1,3 @@
 # Recipes
 
-This repository contains recipes for some foods we like.
-
-
+This repository contains recipes for some foods Caroline and me like.
